@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: estore
+Bundle-SymbolicName: estore
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.xmh.dao,
+ com.xmh.domain,
+ com.xmh.factory,
+ com.xmh.filter,
+ com.xmh.service,
+ com.xmh.utils,
+ com.xmh.web
